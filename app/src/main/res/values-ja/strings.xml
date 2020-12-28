@@ -83,14 +83,12 @@
     <string name="toastmessage_shortcut_created">ショートカットを作成しました。</string>
     <string name="toastmessage_shortcut_not_created">ショートカットは作成されません。このデバイスは、ショートカットの作成を許可していません。</string>
     <string name="toastmessage_list_refreshed">局のリストを再読み込みしています。</string>
-    <string name="toastmessage_copied_to_clipboard_url">ストリームのリンクをクリップボードにコピーしました。</string>
-    <string name="toastmessage_copied_to_clipboard_metadata">メタデータをクリップボードにコピーしました。</string>
+    <string name="toastmessage_copied_to_clipboard">ストリームのリンクをクリップボードにコピーしました。</string>
     <string name="toastmessage_station_copied">放送局をクリップボードにコピーしました。</string>
     <string name="toastmessage_stream_may_not_work">サポートされていないオーディオ形式が検出されました。ストリームの再生が正しく動作しない場合があります。</string>
     <string name="toastmessage_timer_activated">スリープタイマーを有効にしました。</string>
     <string name="toastmessage_timer_cancelled">スリープタイマーを取り消しました。</string>
     <string name="toastmessage_timer_duration_increased">時間を追加しました。</string>
-    <string name="toastmessage_timer_start_unable">まず再生を開始してください。</string>
     <string name="toastalert_unable_to_connect">接続できません。デバイスがインターネットに接続されていない、またはストリームが古い可能性があります。</string>
     <string name="toastalert_rename_unsuccessful">放送局の名前を変更できません。別の名前を選択してください。</string>
     <string name="toastalert_delete_successful">放送局が削除されました。</string>
@@ -112,4 +110,7 @@
     <!-- Version 3 of Transistor removes the screens infosheet_howto and infosheet_about.
     The last version containing those strings is v2.3.7
     https://github.com/y20k/transistor/tree/v2.3.7/app/src/main/res -->
+    <string name="dialog_edit_place_on_home_screen">ホーム画面に配置</string>
+    <string name="dialog_edit_choose_station_image">選択</string>
+    <string name="fragment_settings_title">設定</string>
 </resources>

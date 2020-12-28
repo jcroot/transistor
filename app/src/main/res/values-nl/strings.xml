@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- activities -->
-    <string name="app_name">Transistor</string> <!-- please do not translate app_name - transcription into different alphabet types is fine though -->
-
+    <string name="app_name">Transistor</string>
+    <!-- please do not translate app_name - transcription into different alphabet types is fine though -->
     <!-- app shortcuts -->
     <string name="shortcut_last_station_short_label">Laatste zender</string>
     <string name="shortcut_last_station_long_label">Speel laatste zender</string>
     <string name="shortcut_last_station_disabled_message">Snelkoppeling voor het afspelen van de laatste zender gedeactiveerd.</string>
-
     <!-- menu entries -->
     <string name="menu_icon">Verander icoon</string>
     <string name="menu_delete">Verwijderen</string>
     <string name="menu_rename">Hernoemen</string>
     <string name="menu_shortcut">Op het startscherm plaatsen</string>
-
     <!-- descriptions -->
     <string name="descr_app_icon">App icoon in de vorm van een oude radio</string>
     <string name="descr_station_options_button">Opties</string>
@@ -22,14 +20,13 @@
     <string name="descr_station_stream_loading">Stream aan het laden…</string>
     <string name="descr_playback_button_play">Afspelen</string>
     <string name="descr_playback_button_stop">Stoppen</string>
-    <string name="descr_playback_indicator">Zender aan het afspelen:</string>
+    <string name="descr_playback_indicator">Zender aan het afspelen</string>
     <string name="descr_timer_icon">Slaap timer</string>
     <string name="descr_player_sheet_button_minimize">Verberg zender informatie</string>
     <string name="descr_player_sheet_content_copy_icon">Kopieer</string>
     <string name="descr_player_sheet_p_stream_url">Stream adres van de geselecteerde zender</string>
     <string name="descr_list_add_new">Een nieuwe zender toevoegen</string>
     <string name="descr_list_add_select_stream_dropdown">Selecteer een stream</string>
-
     <!-- player -->
     <string name="player_sheet_h1_details">Details</string>
     <string name="player_sheet_h2_current_session">Huidige sessie</string>
@@ -39,9 +36,8 @@
     <string name="player_sheet_h2_station_channel_count">Aantal kanalen</string>
     <string name="player_sheet_h2_station_sample_rate">Sample snelheid</string>
     <string name="player_sheet_h2_station_bitrate">Bitrate</string>
-
     <!-- dialogs -->
-    <string name="dialog_generic_button_okay">Bevestigen</string>
+    <string name="dialog_generic_button_okay">OK</string>
     <string name="dialog_generic_button_cancel">Annuleren</string>
     <string name="dialog_add_station_button">Toevoegen</string>
     <string name="dialog_add_station_input_hint">Streaming adres plakken</string>
@@ -55,7 +51,6 @@
     <string name="dialog_add_station_choose_stream_heading">Meerdere streams gevonden</string>
     <string name="dialog_add_station_choose_stream_message">Selecteer een audio-stream</string>
     <string name="dialog_add_station_choose_stream_button">Selecteer</string>
-
     <!-- error dialogs -->
     <string name="dialog_error_title_default">Fout</string>
     <string name="dialog_error_message_default">Er is een fout opgetreden</string>
@@ -75,7 +70,6 @@
     <string name="dialog_error_message_fetch_read">Transistor kan dit bestand niet gebruiken.</string>
     <string name="dialog_error_message_fetch_read_file_location">Locatie van bestand:</string>
     <string name="dialog_error_message_fetch_write">Transistor kan deze zender niet opslaan.</string>
-
     <!-- messages -->
     <string name="toastmessage_add_download_started">Download gestart.</string>
     <string name="toastmessage_add_open_file_started">Bestand aan het openen.</string>
@@ -89,14 +83,12 @@
     <string name="toastmessage_shortcut_created">Snelkoppeling gecreëerd.</string>
     <string name="toastmessage_shortcut_not_created">Snelkoppeling niet gecreëerd omdat dit apparaat het niet ondersteunt.</string>
     <string name="toastmessage_list_refreshed">Zenderlijst aan het herladen.</string>
-    <string name="toastmessage_copied_to_clipboard_url">Zenderadres naar het klembord gekopieerd.</string>
-    <string name="toastmessage_copied_to_clipboard_metadata">Metadata naar het klembord gekopieerd.</string>
+    <string name="toastmessage_copied_to_clipboard">Zenderadres naar het klembord gekopieerd.</string>
     <string name="toastmessage_station_copied">Zender naar het klembord gekopieerd.</string>
     <string name="toastmessage_stream_may_not_work">Het gedetecteerde audioformaat wordt niet ondersteund. Het afspelen kan verhinderd worden.</string>
     <string name="toastmessage_timer_activated">Slaap timer geactiveerd.</string>
     <string name="toastmessage_timer_cancelled">Slaap timer gedeactiveerd.</string>
     <string name="toastmessage_timer_duration_increased">Tijdsduur verlengd.</string>
-    <string name="toastmessage_timer_start_unable">Start het afspelen eerst.</string>
     <string name="toastalert_unable_to_connect">Verbindingsfout. Het apparaat heeft geen internetverbinding of de zender is verouderd.</string>
     <string name="toastalert_delete_successful">De zender is verwijderd.</string>
     <string name="toastalert_rename_unsuccessful">Zender kan niet hernoemd worden. Kies alsublieft een andere naam.</string>
@@ -107,19 +99,50 @@
     <string name="toastalert_station_not_found">De zender kan niet gevonden worden.</string>
     <string name="snackbar_request_storage_access">Transistor heeft leesrechten nodig om gegevens van de externe opslag te lezen.</string>
     <string name="snackbar_message_timer_set">Slaap timer ingesteld op</string>
-
     <!-- notification -->
     <string name="notification_play">Afspelen</string>
     <string name="notification_stop">Stoppen</string>
     <string name="notification_channel_playback_name">Afspeelbediening</string>
     <string name="notification_channel_playback_description">Afspeelbediening</string>
-
     <!-- onboarding -->
     <string name="onboarding_app_description">Radio applicatie</string>
     <string name="onboarding_app_get_started">Begin</string>
-
     <!-- Version 3 of Transistor removes the screens infosheet_howto and infosheet_about.
     The last version containing those strings is v2.3.7
     https://github.com/y20k/transistor/tree/v2.3.7/app/src/main/res -->
-
+    <string name="dialog_yes_no_positive_button_update_covers">Update</string>
+    <string name="dialog_yes_no_positive_button_update_collection">Update</string>
+    <string name="dialog_yes_no_positive_button_remove_station">Verwijder</string>
+    <string name="dialog_yes_no_positive_button_non_wifi_download">Toch downloaden</string>
+    <string name="dialog_yes_no_positive_button_delete_downloads">Verwijder alles</string>
+    <string name="dialog_yes_no_positive_button_default">Ja</string>
+    <string name="dialog_yes_no_negative_button_default">Nee</string>
+    <string name="dialog_yes_no_message_default">Weet je zeker dat je dit wilt doen\?</string>
+    <string name="dialog_opml_import_details_default">Geen details beschikbaar</string>
+    <string name="dialog_opml_import_details_button">Toon details</string>
+    <string name="dialog_opml_import_button_okay">Importeer</string>
+    <string name="dialog_generic_details_default">Geen details beschikbaar</string>
+    <string name="dialog_generic_details_button">Details</string>
+    <string name="dialog_find_station_title">Zoek Station</string>
+    <string name="dialog_find_station_no_results">Geen resultaten gevonden.</string>
+    <string name="dialog_find_station_hint">Naam of stream-adres</string>
+    <string name="dialog_error_title_no_network">Offline</string>
+    <string name="dialog_edit_update_station">Updaten Station</string>
+    <string name="dialog_edit_title">Aanpassen Station</string>
+    <string name="dialog_edit_place_on_home_screen">Plaats op Startscherm</string>
+    <string name="fragment_settings_title">Instellingen</string>
+    <string name="toastmessage_error_missing_storage_permission">Sta \"Opslag lezen\" toe om dit bestand te lezen.</string>
+    <string name="toastmessage_error_download_error">Download error</string>
+    <string name="toastmessage_collection_update_not_necessary">Collectie van up-to-date stations.</string>
+    <string name="menu_update">Station updaten</string>
+    <string name="dialog_yes_no_positive_button_vpn_download">Download hoe dan ook</string>
+    <string name="dialog_yes_no_positive_button_add_up_next">Start nu</string>
+    <string name="dialog_yes_no_negative_button_cancel">Annuleer</string>
+    <string name="dialog_yes_no_negative_button_add_up_next">Voeg toe aan \'Volgende\'</string>
+    <string name="dialog_yes_no_message_update_station_images">Download meest recente versie van alle station logo\'s\?</string>
+    <string name="dialog_yes_no_message_update_collection">Zoeken naar wijzigingen\?</string>
+    <string name="dialog_yes_no_message_remove_station">Station verwijderen\?</string>
+    <string name="dialog_find_station_button_add">Voeg toe</string>
+    <string name="dialog_error_message_no_network">Verbind met het internet.</string>
+    <string name="dialog_edit_choose_station_image">Kies</string>
 </resources>

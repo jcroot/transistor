@@ -15,7 +15,9 @@ Basque version: [osoitz](https://github.com/osoitz) | [weblate version history](
 
 Catalan version: [Zagur](https://github.com/Zagur) | [weblate version history](https://hosted.weblate.org/changes/?lang=ca&project=transistor)
 
-Chinese version: [YFdyh000](https://github.com/yfdyh000) | [weblate version history](https://hosted.weblate.org/changes/?lang=zh_Hans&project=transistor)
+Chinese version: [YFdyh000](https://github.com/yfdyh000), [Zo Shin](https://github.com/zo-shin) | [weblate version history](https://hosted.weblate.org/changes/?lang=zh_Hans&project=transistor)
+
+Croatian version: [milotype](https://github.com/milotype) | [weblate version history](https://hosted.weblate.org/changes/?lang=hr&project=transistor)
 
 Czech version: [Paper Mountain Studio ](https://github.com/PaperMountainStudio) | [weblate version history](https://hosted.weblate.org/changes/?lang=cs&project=transistor)
 
@@ -26,6 +28,8 @@ French version: [M2ck](https://github.com/M2ck), [ButterflyOfFire](https://githu
 German version: [y20k](https://github.com/y20k) | [weblate version history](https://hosted.weblate.org/changes/?lang=de&project=transistor)
 
 Greek version: [nikoss](https://github.com/nikoss) | [weblate version history](https://hosted.weblate.org/changes/?lang=el&project=transistor)
+
+Indonesian version: [zmni](https://github.com/zmni) | [weblate version history](https://hosted.weblate.org/changes/?lang=id&project=transistor)
 
 Italian version: [pjammo](https://github.com/pjammo) | [weblate version history](https://hosted.weblate.org/changes/?lang=it&project=transistor)
 
@@ -55,7 +59,7 @@ Spanish version: [franciscot](https://github.com/franciscot) | [weblate version 
 
 Thai version [Athicom](https://github.com/athicom) | [weblate version history](https://hosted.weblate.org/changes/?lang=th&project=transistor)
 
-Turkish version [turkceapps](https://hosted.weblate.org/user/turkceapps/) | [weblate version history](https://hosted.weblate.org/changes/?lang=tr&project=transistor)
+Turkish version [turkceapps](https://hosted.weblate.org/user/turkceapps/), [Oğuz Ersen](https://hosted.weblate.org/user/ersen/) | [weblate version history](https://hosted.weblate.org/changes/?lang=tr&project=transistor)
 
 Ukrainian version: [burunduk](https://github.com/burunduk) | [weblate version history](https://hosted.weblate.org/changes/?lang=uk&project=transistor)
 
